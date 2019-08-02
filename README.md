@@ -1,3 +1,8 @@
+### Initial screen
+
+![initial](https://user-images.githubusercontent.com/22319034/62351096-95110b00-b53f-11e9-9db7-8093de83ee23.png)
+
+
 # mbed-porting-to arctic-tern board using-ARM-GCC
 
 First release v1.0 includes the implementation of GPS and Modem
